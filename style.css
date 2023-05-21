@@ -33,3 +33,8 @@ body{
 .revda {
     font-weight: 300;
 }
+
+.adrs {
+    text-decoration: none;
+    color: black;
+}

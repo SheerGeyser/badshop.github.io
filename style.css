@@ -26,6 +26,7 @@ body{
 
 @media  (max-width: 440px) {
     .bottom{
-        display: block;
+        display: flex;
+        flex-flow: wrap;
     }
 }
